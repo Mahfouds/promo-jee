@@ -1,0 +1,9 @@
+<%@ include file="Client/header.jsp"%>
+<%@ include file="theme/home/section-1.jsp"%>
+<%@ include file="theme/home/section-2.jsp"%>
+<%@ include file="theme/home/section-3.jsp"%>
+<%@ include file="theme/home/section-4.jsp"%>
+<%@ include file="theme/home/section-5.jsp"%>
+<%@ include file="theme/home/section-6.jsp"%>
+<%@ include file="theme/home/section-7.jsp"%>
+<%@ include file="Client/footer.jsp"%>
